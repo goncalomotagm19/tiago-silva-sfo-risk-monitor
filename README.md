@@ -10,14 +10,14 @@ Automated daily portfolio surveillance engine (**Deliverable 4 / Appendix C**) m
 
 | Metric | Demo Account (`1:10`) | Mandate Equivalent (`€10M`) | IPS Benchmark / Rule |
 | :--- | :---: | :---: | :--- |
-| **Net Asset Value (NAV)** | **€1,014,238.81** | **€10,142,388.06** | Initial: €1,000,000 / €10,000,000 (`+1.42%`) |
-| **High-Water Mark (HWM)** | €1,014,238.81 | €10,142,388.10 | Cash-flow adjusted peak |
+| **Net Asset Value (NAV)** | **€1,014,406.11** | **€10,144,061.07** | Initial: €1,000,000 / €10,000,000 (`+1.44%`) |
+| **High-Water Mark (HWM)** | €1,014,406.11 | €10,144,061.10 | Cash-flow adjusted peak |
 | **Peak-to-Trough Drawdown** | **`0.00%`** | **`0.00%`** | **Red Line Cap: −15.0%** (Headroom: `+15.00 pp`) |
 | **Cash Balances (Zero Margin)** | `EUR +€50,081.47` · `USD +$22,355.03` | `EUR +€500,815` · `USD +$223,550` | Status: **`PASS`** (Zero Leverage / Shorting) |
-| **FX Exposure (`EUR/USD = 1.0975`)** | `EUR/Gold 53.6%` · `USD 46.4%` | `EUR/Gold 53.6%` · `USD 46.4%` | Target: `54.3% EUR/Gold` / `45.7% USD` |
+| **FX Exposure (`EUR/USD = 1.0972`)** | `EUR/Gold 53.6%` · `USD 46.4%` | `EUR/Gold 53.6%` · `USD 46.4%` | Target: `54.3% EUR/Gold` / `45.7% USD` |
 | **EUR Liquidity Buffer (`IEGE`)** | €49,942.87 (`4.92%`) | €499,429 (`20.0 mos`) | Min: €500k (Alert ≤ €450k) · Next Sweep: `2027-01-01` |
 | **UCITS 5/10/40 & Sector Cap** | Max Issuer `O` (`2.22%`) | Max Sector `Energy Integrated` (`3.57%`) | Caps: `10%` Single Issuer · `15%` Equity Sector |
-| **Overall Governance Verdict** | **`PASS_WITH_NOTES`** | **`PASS_WITH_NOTES`** | Updated `2026-11-26T11:11:23Z` |
+| **Overall Governance Verdict** | **`PASS_WITH_NOTES`** | **`PASS_WITH_NOTES`** | Updated `2026-11-26T11:44:16Z` |
 
 ![Red Line Daily Dashboard](output/red_line_dashboard.png)
 
