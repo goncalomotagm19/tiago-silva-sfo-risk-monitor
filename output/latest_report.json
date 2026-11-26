@@ -1,65 +1,65 @@
 {
-  "timestamp_utc": "2026-11-26T10:58:24Z",
-  "date": "2026-11-25",
-  "mode": "IBKR_DAY0_RECONCILED",
+  "timestamp_utc": "2026-11-26T11:11:23Z",
+  "date": "2026-11-26",
+  "mode": "LIVE_API_YFINANCE",
   "account_id": "DUR392190",
-  "usd_to_eur": 0.91114,
-  "eur_to_usd": 1.097526,
-  "nav_demo_eur": 1011085.32,
-  "nav_mandate_eur": 10110853.2,
-  "securities_mv_eur": 940580.35,
+  "usd_to_eur": 0.9112,
+  "eur_to_usd": 1.097454,
+  "nav_demo_eur": 1014238.81,
+  "nav_mandate_eur": 10142388.06,
+  "securities_mv_eur": 943732.49,
   "cash_eur": 50081.47,
   "cash_usd": 22355.03,
-  "cash_usd_in_eur": 20368.56,
+  "cash_usd_in_eur": 20369.9,
   "accrued_interest_eur": 54.94,
-  "total_return_since_inception_pct": 1.1085,
-  "hwm_demo_eur": 1011085.32,
+  "total_return_since_inception_pct": 1.4239,
+  "hwm_demo_eur": 1014238.81,
   "drawdown_pct": 0.0,
   "headroom_to_red_line_pct": 15.0,
   "weights_pct": {
-    "fixed_income_total": 55.72,
-    "us_treasuries": 10.68,
-    "eur_sovereigns": 4.93,
-    "us_ig_corp": 22.33,
-    "eur_ig_corp": 17.78,
-    "equities": 17.67,
-    "reits": 9.87,
-    "eur_liquidity_buffer": 4.94,
-    "gold": 4.83,
-    "legacy_satellite": 4.95,
-    "residual_cash": 2.03
+    "fixed_income_total": 55.54,
+    "us_treasuries": 10.63,
+    "eur_sovereigns": 4.91,
+    "us_ig_corp": 22.28,
+    "eur_ig_corp": 17.72,
+    "equities": 17.73,
+    "reits": 9.9,
+    "eur_liquidity_buffer": 4.92,
+    "gold": 4.95,
+    "legacy_satellite": 4.93,
+    "residual_cash": 2.02
   },
   "fx_exposure_pct": {
-    "eur_and_gold": 53.43,
-    "usd": 46.57
+    "eur_and_gold": 53.57,
+    "usd": 46.43
   },
   "concentration": {
     "max_direct_issuer_ticker": "O",
-    "max_direct_issuer_pct": 2.23,
+    "max_direct_issuer_pct": 2.22,
     "ucits_gt5_sum_pct": 0.0,
-    "max_equity_sector_name": "Consumer Staples",
-    "max_equity_sector_pct": 3.56,
+    "max_equity_sector_name": "Energy Integrated",
+    "max_equity_sector_pct": 3.57,
     "sector_weights": {
-      "Consumer Staples": 3.56,
-      "Energy Integrated": 3.55,
-      "Healthcare Pharma": 1.75,
-      "Infrastructure": 1.76,
-      "Insurance": 3.5,
-      "Telecom / Cable": 1.79,
+      "Consumer Staples": 3.55,
+      "Energy Integrated": 3.57,
+      "Healthcare Pharma": 1.74,
+      "Infrastructure": 1.78,
+      "Insurance": 3.53,
+      "Telecom / Cable": 1.78,
       "Utilities (Gas)": 1.77
     }
   },
   "income_and_liquidity": {
-    "proj_gross_demo_eur": 42476.07,
-    "proj_net_demo_eur": 29696.29,
-    "proj_net_mandate_eur": 296962.86,
-    "liquidity_buffer_demo_eur": 49940.86,
-    "liquidity_buffer_mandate_eur": 499408.58,
+    "proj_gross_demo_eur": 42571.34,
+    "proj_net_demo_eur": 29762.17,
+    "proj_net_mandate_eur": 297621.73,
+    "liquidity_buffer_demo_eur": 49942.87,
+    "liquidity_buffer_mandate_eur": 499428.71,
     "liquidity_buffer_months": 19.98,
     "next_sweep": {
       "next_sweep_date": "2027-01-01",
-      "calendar_days_remaining": 37,
-      "business_days_remaining": 27
+      "calendar_days_remaining": 36,
+      "business_days_remaining": 26
     }
   },
   "compliance": {
@@ -75,11 +75,11 @@
   },
   "alerts": [
     {
-      "timestamp_utc": "2026-11-26T10:58:24Z",
-      "date": "2026-11-25",
+      "timestamp_utc": "2026-11-26T11:11:23Z",
+      "date": "2026-11-26",
       "control": "NET_INCOME",
       "severity": "WARN",
-      "message": "Projected 12M net income (ETF proxy TER basis) €296,963 vs. €300,000 target (direct bond ladder mandate yields €303,852/yr; residual USD cash €203,686 uninvested)."
+      "message": "Projected 12M net income (ETF proxy TER basis) €297,622 vs. €300,000 target (direct bond ladder mandate yields €303,852/yr; residual USD cash €203,699 uninvested)."
     }
   ],
   "holdings_snapshot": [
@@ -89,11 +89,11 @@
       "currency": "USD",
       "sleeve": "US Treasuries 3-7Y",
       "quantity": 468.0,
-      "live_price": 126.59,
-      "mv_eur": 53979.6874968,
-      "weight_pct": 5.338786592544607,
-      "unrealized_pnl_eur": -53.97968749680149,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 126.660004,
+      "mv_eur": 54013.0947617664,
+      "weight_pct": 5.325480985222769,
+      "unrealized_pnl_eur": -24.130624377597996,
+      "price_source": "IBTS.SW"
     },
     {
       "ticker": "IDTM",
@@ -101,11 +101,11 @@
       "currency": "USD",
       "sleeve": "US Treasuries 3-7Y",
       "quantity": 356.0,
-      "live_price": 166.4,
-      "mv_eur": 53974.475776,
-      "weight_pct": 5.338271134482113,
-      "unrealized_pnl_eur": -24.752357250399655,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 165.899994,
+      "mv_eur": 53815.834533676796,
+      "weight_pct": 5.306031894248344,
+      "unrealized_pnl_eur": -186.94953355520556,
+      "price_source": "IDTM.L"
     },
     {
       "ticker": "EUNH",
@@ -113,11 +113,11 @@
       "currency": "EUR",
       "sleeve": "EUR Sovereigns 3-7Y",
       "quantity": 469.0,
-      "live_price": 106.335,
-      "mv_eur": 49871.115,
-      "weight_pct": 4.9324338925273326,
-      "unrealized_pnl_eur": -122.63881000000401,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 106.260002,
+      "mv_eur": 49835.940938,
+      "weight_pct": 4.913629870989539,
+      "unrealized_pnl_eur": -157.81287200000224,
+      "price_source": "EUNH.DE"
     },
     {
       "ticker": "SDIG",
@@ -125,11 +125,11 @@
       "currency": "USD",
       "sleeve": "US IG Corporate 3-6Y",
       "quantity": 1249.0,
-      "live_price": 99.09,
-      "mv_eur": 112765.7933874,
-      "weight_pct": 11.152945371719609,
-      "unrealized_pnl_eur": -272.24705572778475,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 99.18,
+      "mv_eur": 112875.647184,
+      "weight_pct": 11.129099627126191,
+      "unrealized_pnl_eur": -169.8369916239899,
+      "price_source": "SDIG.L"
     },
     {
       "ticker": "LQDE",
@@ -137,11 +137,11 @@
       "currency": "USD",
       "sleeve": "US IG Corporate 3-6Y",
       "quantity": 1273.0,
-      "live_price": 97.44,
-      "mv_eur": 113018.82607679999,
-      "weight_pct": 11.17797122111387,
-      "unrealized_pnl_eur": -20.135537979193032,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 97.519997,
+      "mv_eur": 113119.06167212721,
+      "weight_pct": 11.153099348559794,
+      "unrealized_pnl_eur": 72.6562641912169,
+      "price_source": "LQDE.L"
     },
     {
       "ticker": "IEAC",
@@ -149,11 +149,11 @@
       "currency": "EUR",
       "sleeve": "EUR IG Corporate",
       "quantity": 1536.0,
-      "live_price": 117.01,
-      "mv_eur": 179727.36000000002,
-      "weight_pct": 17.775686825499317,
-      "unrealized_pnl_eur": -348.8563199999917,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 116.980003,
+      "mv_eur": 179681.284608,
+      "weight_pct": 17.71587554464008,
+      "unrealized_pnl_eur": -394.9317120000196,
+      "price_source": "IEAC.AS"
     },
     {
       "ticker": "NTGY",
@@ -161,11 +161,11 @@
       "currency": "EUR",
       "sleeve": "Global Defensive Equities",
       "quantity": 597.0,
-      "live_price": 29.92,
-      "mv_eur": 17862.24,
-      "weight_pct": 1.7666402279647737,
-      "unrealized_pnl_eur": -137.3816399999996,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 30.059999,
+      "mv_eur": 17945.819403,
+      "weight_pct": 1.7693879681667197,
+      "unrealized_pnl_eur": -53.80223699999988,
+      "price_source": "NTGY.MC"
     },
     {
       "ticker": "CS",
@@ -173,11 +173,11 @@
       "currency": "EUR",
       "sleeve": "Global Defensive Equities",
       "quantity": 395.0,
-      "live_price": 44.88,
-      "mv_eur": 17727.600000000002,
-      "weight_pct": 1.7533238443368984,
-      "unrealized_pnl_eur": -254.96459999999934,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 45.57,
+      "mv_eur": 18000.15,
+      "weight_pct": 1.7747447536372702,
+      "unrealized_pnl_eur": 17.585399999999936,
+      "price_source": "CS.PA"
     },
     {
       "ticker": "NN",
@@ -185,11 +185,11 @@
       "currency": "EUR",
       "sleeve": "Global Defensive Equities",
       "quantity": 230.0,
-      "live_price": 76.9,
-      "mv_eur": 17687.0,
-      "weight_pct": 1.7493083572952186,
-      "unrealized_pnl_eur": -270.9400000000023,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 77.540001,
+      "mv_eur": 17834.200230000002,
+      "weight_pct": 1.75838275200535,
+      "unrealized_pnl_eur": -123.73977000000014,
+      "price_source": "NN.AS"
     },
     {
       "ticker": "TTE",
@@ -197,11 +197,11 @@
       "currency": "EUR",
       "sleeve": "Global Defensive Equities",
       "quantity": 232.0,
-      "live_price": 77.28,
-      "mv_eur": 17928.96,
-      "weight_pct": 1.773239077605681,
-      "unrealized_pnl_eur": -34.18520000000353,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 78.419998,
+      "mv_eur": 18193.439536,
+      "weight_pct": 1.7938023498211344,
+      "unrealized_pnl_eur": 230.29433599999902,
+      "price_source": "TTE.PA"
     },
     {
       "ticker": "DG",
@@ -209,11 +209,11 @@
       "currency": "EUR",
       "sleeve": "Global Defensive Equities",
       "quantity": 158.0,
-      "live_price": 112.4,
-      "mv_eur": 17759.2,
-      "weight_pct": 1.7564491987831314,
-      "unrealized_pnl_eur": -215.45669999999882,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 114.300003,
+      "mv_eur": 18059.400474000002,
+      "weight_pct": 1.7805866198373865,
+      "unrealized_pnl_eur": 84.7437740000023,
+      "price_source": "DG.PA"
     },
     {
       "ticker": "AD",
@@ -221,11 +221,11 @@
       "currency": "EUR",
       "sleeve": "Global Defensive Equities",
       "quantity": 501.0,
-      "live_price": 35.73,
-      "mv_eur": 17900.73,
-      "weight_pct": 1.7704470283646314,
-      "unrealized_pnl_eur": -93.1258799999996,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 35.869999,
+      "mv_eur": 17970.869499,
+      "weight_pct": 1.7718578101654867,
+      "unrealized_pnl_eur": -22.9863809999988,
+      "price_source": "AD.AS"
     },
     {
       "ticker": "CMCSA",
@@ -234,10 +234,10 @@
       "sleeve": "Global Defensive Equities",
       "quantity": 771.1598,
       "live_price": 25.73,
-      "mv_eur": 18078.78671862556,
-      "weight_pct": 1.78805748270761,
-      "unrealized_pnl_eur": 144.03797283164022,
-      "price_source": "IBKR_CLOSE"
+      "mv_eur": 18079.977235124803,
+      "weight_pct": 1.7826154084226533,
+      "unrealized_pnl_eur": 144.04745795837152,
+      "price_source": "CMCSA"
     },
     {
       "ticker": "PEP",
@@ -245,11 +245,11 @@
       "currency": "USD",
       "sleeve": "Global Defensive Equities",
       "quantity": 137.7861,
-      "live_price": 143.93,
-      "mv_eur": 18069.32154027522,
-      "weight_pct": 1.7871213422885712,
-      "unrealized_pnl_eur": 137.18510630583478,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 143.929993,
+      "mv_eur": 18070.51055462274,
+      "weight_pct": 1.7816820305588355,
+      "unrealized_pnl_eur": 137.19326130568152,
+      "price_source": "PEP"
     },
     {
       "ticker": "BMY",
@@ -257,11 +257,11 @@
       "currency": "USD",
       "sleeve": "Global Defensive Equities",
       "quantity": 315.0,
-      "live_price": 61.56,
-      "mv_eur": 17668.280196,
-      "weight_pct": 1.7474569008818004,
-      "unrealized_pnl_eur": -61.707817527298175,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 61.560001,
+      "mv_eur": 17669.443967028,
+      "weight_pct": 1.7421384255226016,
+      "unrealized_pnl_eur": -61.71159405599974,
+      "price_source": "BMY"
     },
     {
       "ticker": "CVX",
@@ -269,11 +269,11 @@
       "currency": "USD",
       "sleeve": "Global Defensive Equities",
       "quantity": 93.6251,
-      "live_price": 210.95,
-      "mv_eur": 17995.210753873296,
-      "weight_pct": 1.7797915171051817,
-      "unrealized_pnl_eur": 63.073490935435984,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 210.949997,
+      "mv_eur": 17996.39551083043,
+      "weight_pct": 1.7743745756134046,
+      "unrealized_pnl_eur": 63.077388490306475,
+      "price_source": "CVX"
     },
     {
       "ticker": "LI",
@@ -281,11 +281,11 @@
       "currency": "EUR",
       "sleeve": "Listed Institutional REITs",
       "quantity": 525.0,
-      "live_price": 37.94,
-      "mv_eur": 19918.5,
-      "weight_pct": 1.9700117891550184,
-      "unrealized_pnl_eur": -59.863649999999325,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 38.32,
+      "mv_eur": 20118.0,
+      "weight_pct": 1.9835565233442276,
+      "unrealized_pnl_eur": 139.63635000000068,
+      "price_source": "LI.PA"
     },
     {
       "ticker": "AED",
@@ -293,11 +293,11 @@
       "currency": "EUR",
       "sleeve": "Listed Institutional REITs",
       "quantity": 263.0,
-      "live_price": 66.75,
-      "mv_eur": 17555.25,
-      "weight_pct": 1.7362778051341035,
-      "unrealized_pnl_eur": 61.423649999997,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 67.25,
+      "mv_eur": 17686.75,
+      "weight_pct": 1.7438447330380018,
+      "unrealized_pnl_eur": 192.923649999997,
+      "price_source": "AED.BR"
     },
     {
       "ticker": "WDP",
@@ -305,11 +305,11 @@
       "currency": "EUR",
       "sleeve": "Listed Institutional REITs",
       "quantity": 902.0,
-      "live_price": 19.31,
-      "mv_eur": 17417.62,
-      "weight_pct": 1.7226656996772967,
-      "unrealized_pnl_eur": -89.64977999999974,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 19.610001,
+      "mv_eur": 17688.220902,
+      "weight_pct": 1.7439897582521038,
+      "unrealized_pnl_eur": 180.95112200000221,
+      "price_source": "WDP.BR"
     },
     {
       "ticker": "O",
@@ -318,10 +318,10 @@
       "sleeve": "Listed Institutional REITs",
       "quantity": 411.0,
       "live_price": 60.25,
-      "mv_eur": 22562.332035,
-      "weight_pct": 2.231496352625948,
-      "unrealized_pnl_eur": 150.6512187278422,
-      "price_source": "IBKR_CLOSE"
+      "mv_eur": 22563.8178,
+      "weight_pct": 2.224704642048941,
+      "unrealized_pnl_eur": 150.66113934720124,
+      "price_source": "O"
     },
     {
       "ticker": "NNN",
@@ -329,11 +329,11 @@
       "currency": "USD",
       "sleeve": "Listed Institutional REITs",
       "quantity": 584.0,
-      "live_price": 41.99,
-      "mv_eur": 22343.1208624,
-      "weight_pct": 2.209815573735143,
-      "unrealized_pnl_eur": -61.193758717283345,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 41.990002,
+      "mv_eur": 22344.593256281598,
+      "weight_pct": 2.2030899550139575,
+      "unrealized_pnl_eur": -61.1967241408056,
+      "price_source": "NNN"
     },
     {
       "ticker": "IEGE",
@@ -341,11 +341,11 @@
       "currency": "EUR",
       "sleeve": "EUR Liquidity Buffer",
       "quantity": 503.0,
-      "live_price": 99.286,
-      "mv_eur": 49940.858,
-      "weight_pct": 4.939331727816689,
-      "unrealized_pnl_eur": -51.95487000000139,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 99.290001,
+      "mv_eur": 49942.870503,
+      "weight_pct": 4.924172710048795,
+      "unrealized_pnl_eur": -49.94236700000329,
+      "price_source": "IEGE.MI"
     },
     {
       "ticker": "SGLD",
@@ -353,11 +353,11 @@
       "currency": "EUR",
       "sleeve": "Physical Gold ETC",
       "quantity": 161.0,
-      "live_price": 303.28,
-      "mv_eur": 48828.079999999994,
-      "weight_pct": 4.82927395345053,
-      "unrealized_pnl_eur": -1167.2854200000002,
-      "price_source": "IBKR_CLOSE"
+      "live_price": 311.970001,
+      "mv_eur": 50227.170161,
+      "weight_pct": 4.952203550152704,
+      "unrealized_pnl_eur": 231.8047410000072,
+      "price_source": "SGLD.MI"
     }
   ]
 }
