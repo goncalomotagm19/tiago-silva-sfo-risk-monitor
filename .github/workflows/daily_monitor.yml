@@ -1,0 +1,42 @@
+name: SFO Daily Risk & Red Line Monitor
+
+on:
+  schedule:
+    # Runs Monday-Friday at 21:30 UTC (after NYSE/NASDAQ close)
+    - cron: '30 21 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-daily-surveillance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Daily IPS Risk & Compliance Engine
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python src/sfo_risk_monitor.py
+
+      - name: Commit updated audit logs, dashboard & README
+        run: |
+          git config user.name "Tiago Silva SFO Bot"
+          git config user.email "sfo-bot@users.noreply.github.com"
+          git add output/audit_log.csv output/alerts_log.csv output/latest_report.json output/red_line_dashboard.png README.md
+          git diff --staged --quiet || git commit -m "chore: daily risk surveillance snapshot $(date -u +'%Y-%m-%d')"
+          git push
