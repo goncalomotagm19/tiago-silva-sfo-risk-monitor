@@ -37,6 +37,6 @@ jobs:
         run: |
           git config user.name "Tiago Silva SFO Bot"
           git config user.email "sfo-bot@users.noreply.github.com"
-          git add output/audit_log.csv output/alerts_log.csv output/latest_report.json output/red_line_dashboard.png README.md
+          git add output/audit_log.csv output/alerts_log.csv output/latest_report.json output/red_line_dashboard.png output/Tiago_Silva_SFO_Gestor_Portfolio.xlsx README.md
           git diff --staged --quiet || git commit -m "chore: daily risk surveillance snapshot $(date -u +'%Y-%m-%d')"
           git push
