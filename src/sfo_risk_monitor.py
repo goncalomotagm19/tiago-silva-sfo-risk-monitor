@@ -50,6 +50,7 @@ if SCRIPT_DIR not in sys.path:
     sys.path.insert(0, SCRIPT_DIR)
 
 import ibkr_parser
+import excel_updater
 
 
 # Institutional SFO Visual Palette (matching IPS v3, Appendix A & Appendix B)
@@ -836,6 +837,8 @@ def main():
     with open(latest_json, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2, ensure_ascii=False)
 
+    excel_xlsx = os.path.join(REPO_ROOT, "output", "Tiago_Silva_SFO_Gestor_Portfolio.xlsx")
+    excel_updater.update_excel_portfolio(excel_xlsx, report, hist_df)
     render_dashboard(report, hist_df, dash_png)
     update_readme(report, readme_md)
     send_telegram_if_configured(report)
