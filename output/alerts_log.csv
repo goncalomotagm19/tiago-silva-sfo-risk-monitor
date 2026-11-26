@@ -1,0 +1,2 @@
+timestamp_utc,date,control,severity,message
+2026-11-26T10:58:24Z,2026-11-25,NET_INCOME,WARN,"Projected 12M net income (ETF proxy TER basis) €296,963 vs. €300,000 target (direct bond ladder mandate yields €303,852/yr; residual USD cash €203,686 uninvested)."

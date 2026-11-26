@@ -1,0 +1,342 @@
+﻿Statement,Header,Nome do campo,Valor do campo
+Statement,Data,BrokerName,Interactive Brokers Ireland Limited
+Statement,Data,BrokerAddress,
+Statement,Data,Title,Extrato da atividade
+Statement,Data,Period,"Novembro 25, 2026"
+Statement,Data,WhenGenerated,"2026-11-26, 05:47:13 EST"
+Informações da conta,Header,Nome do campo,Valor do campo
+Informações da conta,Data,Nome,Individual Demo
+Informações da conta,Data,Segmento,DUR392190
+Informações da conta,Data,Tipo de conta,Pessoa física
+Informações da conta,Data,Tipo de cliente,Pessoa física
+Informações da conta,Data,Recursos da conta,Margem
+Informações da conta,Data,Moeda-base,EUR
+Valor patrimonial líquido,Header,Classe de ativos,Total anterior,Atual long,Atual short,Atual total,Variação
+Valor patrimonial líquido,Data,Valor disponível,-162413.608440021,70450.029136492,0,70450.029136492,232863.637576514
+Valor patrimonial líquido,Data,Ações,1166695.3518668,940580.3458484,0,940580.3458484,-226115.0060184
+Valor patrimonial líquido,Data,Juros acumulados,0,54.94,0,54.94,54.94
+Valor patrimonial líquido,Data,Total,1004281.743426779,1011085.314984892,0,1011085.314984892,6803.571558113
+Valor patrimonial líquido,Header,Taxa de retorno ponderada pelo tempo
+Valor patrimonial líquido,Data,0.677456461%
+Variação no VPL,Header,Nome do campo,Valor do campo
+Variação no VPL,Data,Valor inicial,1004281.743426779
+Variação no VPL,Data,Marcação a mercado,8106.180781
+Variação no VPL,Data,Alteração nos acréscimos de juros,54.94
+Variação no VPL,Data,Taxas de corretagem,-942.773874474
+Variação no VPL,Data,Outras conversões de Forex,-414.775348414
+Variação no VPL,Data,Valor final,1011085.314984892
+Resumo do desempenho de marcação a mercado,Header,Categoria de ativos,Símbolo,Anterior Quantidade,Atual Quantidade,Anterior Preço,Atual Preço,P&L de marcação a mercado Posição,P&L de marcação a mercado Transação,P&L de marcação a mercado Taxas de corretagem,P&L de marcação a mercado Outros,P&L de marcação a mercado Total,Código
+Resumo do desempenho de marcação a mercado,Data,Ações,AD,0,501,--,35.7300,0,-75.15,-17.97588,0,-93.12588,
+Resumo do desempenho de marcação a mercado,Data,Ações,AED,0,263,--,66.7500,0,78.9,-17.47635,0,61.42365,
+Resumo do desempenho de marcação a mercado,Data,Ações,BMY,19680,315,62.0200,61.5600,-8248.368192,17997.110622,-111.020081967,0,9637.722348033,
+Resumo do desempenho de marcação a mercado,Data,Ações,CMCSA,771.1598,771.1598,25.3800,25.7300,245.916686,0,0,0,245.916686,
+Resumo do desempenho de marcação a mercado,Data,Ações,CS,0,395,--,44.8800,0,-237,-17.9646,0,-254.9646,
+Resumo do desempenho de marcação a mercado,Data,Ações,CVX,93.6251,93.6251,208.7300,210.9500,189.3713376,0,0,0,189.3713376,
+Resumo do desempenho de marcação a mercado,Data,Ações,DG,0,158,--,112.4000,0,-197.5,-17.9567,0,-215.4567,
+Resumo do desempenho de marcação a mercado,Data,Ações,EUNH,0,469,--,106.3350,0.005,-72.695,-49.94381,0,-122.63381,
+Resumo do desempenho de marcação a mercado,Data,Ações,IBTS,0,468,--,126.5900,0,0,-53.979687497,0,-53.979687497,
+Resumo do desempenho de marcação a mercado,Data,Ações,IDTM,0,356,--,166.4000,0,29.1929256,-53.94528285,0,-24.75235725,
+Resumo do desempenho de marcação a mercado,Data,Ações,IEAC,0,1536,--,117.0100,0,-168.96,-179.89632,0,-348.85632,
+Resumo do desempenho de marcação a mercado,Data,Ações,IEGE,0,503,--,99.2860,0.002,-2.012,-49.94287,0,-51.95287,
+Resumo do desempenho de marcação a mercado,Data,Ações,LI,0,525,--,37.9400,0,-38.88,-20.98346,0,-59.86346,
+Resumo do desempenho de marcação a mercado,Data,Ações,LQDE,0,1273,--,97.4400,0,92.7904976,-112.926035579,0,-20.135537979,
+Resumo do desempenho de marcação a mercado,Data,Ações,NN,0,230,--,76.9000,0,-253,-17.94,0,-270.94,
+Resumo do desempenho de marcação a mercado,Data,Ações,NNN,0,584,--,41.9900,0,-58.5316336,-2.662125117,0,-61.193758717,
+Resumo do desempenho de marcação a mercado,Data,Ações,NTGY,0,597,--,29.9200,0,-119.4,-17.98164,0,-137.38164,
+Resumo do desempenho de marcação a mercado,Data,Ações,O,0,411,--,60.2500,0,152.524836,-1.873516136,0,150.651319864,
+Resumo do desempenho de marcação a mercado,Data,Ações,PEP,137.7861,137.7861,142.6800,143.9300,156.9256422,0,0,0,156.9256422,
+Resumo do desempenho de marcação a mercado,Data,Ações,SDIG,0,1249,--,99.0900,0,-159.3219404,-112.925115328,0,-272.247055728,
+Resumo do desempenho de marcação a mercado,Data,Ações,SGLD,0,161,--,303.2800,0,-1117.34,-49.94542,0,-1167.28542,
+Resumo do desempenho de marcação a mercado,Data,Ações,TTE,0,232,--,77.2800,0,-16.24,-17.9452,0,-34.1852,
+Resumo do desempenho de marcação a mercado,Data,Ações,WDP,0,902,--,19.3100,0,-72.16,-17.48978,0,-89.64978,
+Resumo do desempenho de marcação a mercado,Data,P&L sobre conversão cambial (Ações),,,,,,,,,,"-1,049.05",
+Resumo do desempenho de marcação a mercado,Data,Total,,,,,,-7656.1475262,15762.3283072,-942.773874474,0,6114.358495925,
+Resumo do desempenho de marcação a mercado,Data,Total (todos os ativos),,,,,,-7656.1475262,15762.3283072,-942.773874474,0,6114.358495925,
+Resumo do desempenho realizado e não realizado,Header,Categoria de ativos,Símbolo,Ajuste de custos,Realizados Lucro CP,Realizados Perda CP,Realizados Lucro LP,Realizados Perda LP,Realizados Total,Não realizado Lucro CP,Não realizado Perda CP,Não realizado Lucro LP,Não realizado Perda LP,Não realizado Total,Total,Código
+Resumo do desempenho realizado e não realizado,Data,Ações,AD,0,0,0,0,0,0,0,-93.12588,0,0,-93.12588,-93.12588,
+Resumo do desempenho realizado e não realizado,Data,Ações,AED,0,0,0,0,0,0,61.42365,0,0,0,61.42365,61.42365,
+Resumo do desempenho realizado e não realizado,Data,Ações,BMY,0,14092.528995855,0,0,0,14092.528995855,0,-61.707817527,0,0,-61.707817527,14030.821178328,
+Resumo do desempenho realizado e não realizado,Data,Ações,CMCSA,0,0,0,0,0,0,144.036466243,0,0,0,144.036466243,144.036466243,
+Resumo do desempenho realizado e não realizado,Data,Ações,CS,0,0,0,0,0,0,0,-254.9646,0,0,-254.9646,-254.9646,
+Resumo do desempenho realizado e não realizado,Data,Ações,CVX,0,0,0,0,0,0,63.069065243,0,0,0,63.069065243,63.069065243,
+Resumo do desempenho realizado e não realizado,Data,Ações,DG,0,0,0,0,0,0,0,-215.4567,0,0,-215.4567,-215.4567,
+Resumo do desempenho realizado e não realizado,Data,Ações,EUNH,0,0,0,0,0,0,0,-122.63381,0,0,-122.63381,-122.63381,
+Resumo do desempenho realizado e não realizado,Data,Ações,IBTS,0,0,0,0,0,0,0,-53.979687497,0,0,-53.979687497,-53.979687497,
+Resumo do desempenho realizado e não realizado,Data,Ações,IDTM,0,0,0,0,0,0,0,-24.75235725,0,0,-24.75235725,-24.75235725,
+Resumo do desempenho realizado e não realizado,Data,Ações,IEAC,0,0,0,0,0,0,0,-348.85632,0,0,-348.85632,-348.85632,
+Resumo do desempenho realizado e não realizado,Data,Ações,IEGE,0,0,0,0,0,0,0,-51.95287,0,0,-51.95287,-51.95287,
+Resumo do desempenho realizado e não realizado,Data,Ações,LI,0,0,0,0,0,0,0,-59.86346,0,0,-59.86346,-59.86346,
+Resumo do desempenho realizado e não realizado,Data,Ações,LQDE,0,0,0,0,0,0,0,-20.135537979,0,0,-20.135537979,-20.135537979,
+Resumo do desempenho realizado e não realizado,Data,Ações,NN,0,0,0,0,0,0,0,-270.94,0,0,-270.94,-270.94,
+Resumo do desempenho realizado e não realizado,Data,Ações,NNN,0,0,0,0,0,0,0,-61.193758717,0,0,-61.193758717,-61.193758717,
+Resumo do desempenho realizado e não realizado,Data,Ações,NTGY,0,0,0,0,0,0,0,-137.38164,0,0,-137.38164,-137.38164,
+Resumo do desempenho realizado e não realizado,Data,Ações,O,0,0,0,0,0,0,150.651319864,0,0,0,150.651319864,150.651319864,
+Resumo do desempenho realizado e não realizado,Data,Ações,PEP,0,0,0,0,0,0,137.182080293,0,0,0,137.182080293,137.182080293,
+Resumo do desempenho realizado e não realizado,Data,Ações,SDIG,0,0,0,0,0,0,0,-272.247055728,0,0,-272.247055728,-272.247055728,
+Resumo do desempenho realizado e não realizado,Data,Ações,SGLD,0,0,0,0,0,0,0,-1167.28542,0,0,-1167.28542,-1167.28542,
+Resumo do desempenho realizado e não realizado,Data,Ações,TTE,0,0,0,0,0,0,0,-34.1852,0,0,-34.1852,-34.1852,
+Resumo do desempenho realizado e não realizado,Data,Ações,WDP,0,0,0,0,0,0,0,-89.64978,0,0,-89.64978,-89.64978,
+Resumo do desempenho realizado e não realizado,Data,Total,,0,14092.528995855,0,0,0,14092.528995855,556.362581644,-3340.311894699,0,0,-2783.949313055,11308.5796828,
+Resumo do desempenho realizado e não realizado,Data,Total (todos os ativos),,0,14092.528995855,0,0,0,14092.528995855,556.362581644,-3340.311894699,0,0,-2783.949313055,11308.5796828,
+Relatório de caixa,Header,Resumo da moeda,Moeda,Total,Títulos,Futuros,Acumulado do mês,Acumulado do ano,
+Relatório de caixa,Data,Saldo inicial,Resumo da moeda-base,-162413.608440021,-162413.608440021,0,,,
+Relatório de caixa,Data,Taxas de corretagem,Resumo da moeda-base,-942.773874474,-942.773874474,0,0,0,
+Relatório de caixa,Data,Negociações (vendas),Resumo da moeda-base,1104175.669338,1104175.669338,0,0,0,
+Relatório de caixa,Data,Negociações (compra),Resumo da moeda-base,-871003.5309492,-871003.5309492,0,0,0,
+Relatório de caixa,Data,Ganho/perda de conversão cambial de saldo,Resumo da moeda-base,634.273062187,634.273062187,0,,,
+Relatório de caixa,Data,Saldo final,Resumo da moeda-base,70450.029136492,70450.029136492,0,,,
+Relatório de caixa,Data,Saldo liquidado final,Resumo da moeda-base,-162453.047394708,-162453.047394708,0,,,
+Relatório de caixa,Data,Saldo inicial,EUR,542990.857160341,542990.857160341,0,,,
+Relatório de caixa,Data,Taxas de corretagem,EUR,-493.44203,-493.44203,0,-502.58486966,-502.58486966,
+Relatório de caixa,Data,Depósitos,EUR,0,0,0,1000000,1000000,
+Relatório de caixa,Data,Negociações (compra),EUR,-492415.95,-492415.95,0,-949415.95,-949415.95,
+Relatório de caixa,Data,Saldo final,EUR,50081.465130341,50081.465130341,0,,,
+Relatório de caixa,Data,Saldo liquidado final,EUR,999497.415130341,999497.415130341,0,,,
+Relatório de caixa,Data,Saldo inicial,USD,-773503.734374712,-773503.734374712,0,,,
+Relatório de caixa,Data,Taxas de corretagem,USD,-493.15346102,-493.15346102,0,-597.47130774,-597.47130774,
+Relatório de caixa,Data,Negociações (vendas),USD,1211861.7,1211861.7,0,1713135.86,1713135.86,
+Relatório de caixa,Data,Negociações (compra),USD,-415509.78,-415509.78,0,-1690183.356528,-1690183.356528,
+Relatório de caixa,Data,Saldo final,USD,22355.032164268,22355.032164268,0,,,
+Relatório de caixa,Data,Saldo liquidado final,USD,-1275271.047835732,-1275271.047835732,0,,,
+Posições abertas,Header,DataDiscriminator,Categoria de ativos,Moeda,Símbolo,Quantidade,Mult,Preço de custo,Base de custo,Preço de fechamento,Valor,P&L não realizados,Código
+Posições abertas,Data,Summary,Ações,EUR,AD,501,1,35.91588,17993.85588,35.73,17900.73,-93.12588,
+Posições abertas,Data,Summary,Ações,EUR,AED,263,1,66.51645,17493.82635,66.75,17555.25,61.42365,
+Posições abertas,Data,Summary,Ações,EUR,CS,395,1,45.52548,17982.5646,44.88,17727.6,-254.9646,
+Posições abertas,Data,Summary,Ações,EUR,DG,158,1,113.76365,17974.6567,112.4,17759.2,-215.4567,
+Posições abertas,Data,Summary,Ações,EUR,EUNH,469,1,106.59649,49993.75381,106.335,49871.12,-122.63381,
+Posições abertas,Data,Summary,Ações,EUR,IEAC,1536,1,117.23712,180076.21632,117.01,179727.36,-348.85632,
+Posições abertas,Data,Summary,Ações,EUR,IEGE,503,1,99.38929,49992.81287,99.286,49940.86,-51.95287,
+Posições abertas,Data,Summary,Ações,EUR,LI,525,1,38.054025638,19978.36346,37.94,19918.5,-59.86346,
+Posições abertas,Data,Summary,Ações,EUR,NN,230,1,78.078,17957.94,76.9,17687,-270.94,
+Posições abertas,Data,Summary,Ações,EUR,NTGY,597,1,30.15012,17999.62164,29.92,17862.24,-137.38164,
+Posições abertas,Data,Summary,Ações,EUR,SGLD,161,1,310.53022,49995.36542,303.28,48828.08,-1167.28542,
+Posições abertas,Data,Summary,Ações,EUR,TTE,232,1,77.42735,17963.1452,77.28,17928.96,-34.1852,
+Posições abertas,Data,Summary,Ações,EUR,WDP,902,1,19.40939,17507.26978,19.31,17417.62,-89.64978,
+Posições abertas,Total,,Ações,EUR,,,,,492909.39203,,490124.52,-2784.87203,
+Posições abertas,Data,Summary,Ações,USD,BMY,315,1,61.775003,19459.125945,61.56,19391.4,-67.725945,
+Posições abertas,Data,Summary,Ações,USD,CMCSA,771.1598,1,25.525002999,19683.856208,25.73,19841.94,158.083792,
+Posições abertas,Data,Summary,Ações,USD,CVX,93.6251,1,210.210617132,19680.99005,210.95,19750.21,69.21995,
+Posições abertas,Data,Summary,Ações,USD,IBTS,468,1,126.71659,59303.36412,126.59,59244.12,-59.24412,
+Posições abertas,Data,Summary,Ações,USD,IDTM,356,1,166.47631,59265.56636,166.4,59238.4,-27.16636,
+Posições abertas,Data,Summary,Ações,USD,LQDE,1273,1,97.45736,124063.21928,97.44,124041.12,-22.09928,
+Posições abertas,Data,Summary,Ações,USD,NNN,584,1,42.105003,24589.321752,41.99,24522.16,-67.161752,
+Posições abertas,Data,Summary,Ações,USD,O,411,1,59.84770373,24597.406233,60.25,24762.75,165.343767,
+Posições abertas,Data,Summary,Ações,USD,PEP,137.7861,1,142.837260624,19680.989076,143.93,19831.55,150.560924,
+Posições abertas,Data,Summary,Ações,USD,SDIG,1249,1,99.32923,124062.20827,99.09,123763.41,-298.79827,
+Posições abertas,Total,,Ações,USD,,,,,494386.047294,,494387.06,1.012706,
+Posições abertas,Total,,Ações,EUR,,,,,450454.903131455,,450455.8258484,0.922716945,
+Posições abertas,Total,,Ações,EUR,,,,,943364.295161455,,940580.3458484,-2783.949313055,
+Resumo da posição líquida de ações,Header,Categoria de ativos,Moeda,Símbolo,Descrição,Ações na IB,Ações tomadas em empréstimo,Ações emprestadas,Ações líquidas
+Resumo da posição líquida de ações,Data,Ações,EUR,AD,KONINKLIJKE AHOLD DELHAIZE N,501,0,0,501
+Resumo da posição líquida de ações,Data,Ações,EUR,AED,AEDIFICA,263,0,0,263
+Resumo da posição líquida de ações,Data,Ações,EUR,CS,AXA SA,395,0,0,395
+Resumo da posição líquida de ações,Data,Ações,EUR,DG,VINCI SA,158,0,0,158
+Resumo da posição líquida de ações,Data,Ações,EUR,EUNH,ISHARES CORE EURO GOVT BOND,469,0,0,469
+Resumo da posição líquida de ações,Data,Ações,EUR,IEAC,ISHARES CORE EURO CORP BOND,1536,0,0,1536
+Resumo da posição líquida de ações,Data,Ações,EUR,IEGE,ISHARES EURO GOVT 0-1YR,503,0,0,503
+Resumo da posição líquida de ações,Data,Ações,EUR,LI,KLEPIERRE,525,0,0,525
+Resumo da posição líquida de ações,Data,Ações,EUR,NN,NN GROUP NV,230,0,0,230
+Resumo da posição líquida de ações,Data,Ações,EUR,NTGY,NATURGY ENERGY GROUP SA,597,0,0,597
+Resumo da posição líquida de ações,Data,Ações,EUR,SGLD,INVESCO PHYSICAL GOLD ETC,161,0,0,161
+Resumo da posição líquida de ações,Data,Ações,EUR,TTE,TOTALENERGIES SE,232,0,0,232
+Resumo da posição líquida de ações,Data,Ações,EUR,WDP,WAREHOUSES DE PAUW NV,902,0,0,902
+Resumo da posição líquida de ações,Data,Ações,USD,BMY,BRISTOL-MYERS SQUIBB CO,315,0,0,315
+Resumo da posição líquida de ações,Data,Ações,USD,CMCSA,COMCAST CORP-CLASS A,771.1598,0,0,771.1598
+Resumo da posição líquida de ações,Data,Ações,USD,CVX,CHEVRON CORP,93.6251,0,0,93.6251
+Resumo da posição líquida de ações,Data,Ações,USD,IBTS,ISHARES USD TRSRY 1-3Y USD D,468,0,0,468
+Resumo da posição líquida de ações,Data,Ações,USD,IDTM,ISHARES USD TREASURY 7-10Y,356,0,0,356
+Resumo da posição líquida de ações,Data,Ações,USD,LQDE,ISHARES USD CORP BOND USD D,1273,0,0,1273
+Resumo da posição líquida de ações,Data,Ações,USD,NNN,NNN REIT INC,584,0,0,584
+Resumo da posição líquida de ações,Data,Ações,USD,O,REALTY INCOME CORP,411,0,0,411
+Resumo da posição líquida de ações,Data,Ações,USD,PEP,PEPSICO INC,137.7861,0,0,137.7861
+Resumo da posição líquida de ações,Data,Ações,USD,SDIG,ISHARES USD SHORT DUR USD D,1249,0,0,1249
+Operações,Header,DataDiscriminator,Categoria de ativos,Moeda,Símbolo,Data/hora,Quantidade,Preço Neg.,Preço Fch.,Rendimentos,Corr/Taxa,Base,P&L realizados,P&L MTM,Código
+Operações,Data,Order,Ações,EUR,AD,"2026-11-25, 05:48:29",501,35.88,35.73,-17975.88,-17.97588,17993.85588,0,-75.15,O
+Operações,SubTotal,,Ações,EUR,AD,,501,,,-17975.88,-17.97588,17993.85588,0,-75.15,
+Operações,Data,Order,Ações,EUR,AED,"2026-11-25, 05:50:06",263,66.45,66.75,-17476.35,-17.47635,17493.82635,0,78.9,O
+Operações,SubTotal,,Ações,EUR,AED,,263,,,-17476.35,-17.47635,17493.82635,0,78.9,
+Operações,Data,Order,Ações,EUR,CS,"2026-11-25, 05:45:05",395,45.48,44.88,-17964.6,-17.9646,17982.5646,0,-237,O
+Operações,SubTotal,,Ações,EUR,CS,,395,,,-17964.6,-17.9646,17982.5646,0,-237,
+Operações,Data,Order,Ações,EUR,DG,"2026-11-25, 05:47:50",158,113.65,112.4,-17956.7,-17.9567,17974.6567,0,-197.5,O
+Operações,SubTotal,,Ações,EUR,DG,,158,,,-17956.7,-17.9567,17974.6567,0,-197.5,
+Operações,Data,Order,Ações,EUR,EUNH,"2026-11-25, 05:54:04",469,106.49,106.335,-49943.81,-49.94381,49993.75381,0,-72.695,O
+Operações,SubTotal,,Ações,EUR,EUNH,,469,,,-49943.81,-49.94381,49993.75381,0,-72.695,
+Operações,Data,Order,Ações,EUR,IEAC,"2026-11-25, 05:54:56","1,536",117.12,117.01,-179896.32,-179.89632,180076.21632,0,-168.96,O;P
+Operações,SubTotal,,Ações,EUR,IEAC,,1536,,,-179896.32,-179.89632,180076.21632,0,-168.96,
+Operações,Data,Order,Ações,EUR,IEGE,"2026-11-25, 05:55:49",503,99.29,99.286,-49942.87,-49.94287,49992.81287,0,-2.012,O
+Operações,SubTotal,,Ações,EUR,IEGE,,503,,,-49942.87,-49.94287,49992.81287,0,-2.012,
+Operações,Data,Order,Ações,EUR,LI,"2026-11-25, 05:49:10",473,38.02,37.94,-17983.46,-17.98346,18001.44346,0,-37.84,O
+Operações,Data,Order,Ações,EUR,LI,"2026-11-25, 07:05:01",52,37.96,37.94,-1973.92,-3,1976.92,0,-1.04,O
+Operações,SubTotal,,Ações,EUR,LI,,525,,,-19957.38,-20.98346,19978.36346,0,-38.88,
+Operações,Data,Order,Ações,EUR,NN,"2026-11-25, 05:46:04",230,78,76.9,-17940,-17.94,17957.94,0,-253,O
+Operações,SubTotal,,Ações,EUR,NN,,230,,,-17940,-17.94,17957.94,0,-253,
+Operações,Data,Order,Ações,EUR,NTGY,"2026-11-25, 05:44:02",597,30.12,29.92,-17981.64,-17.98164,17999.62164,0,-119.4,O
+Operações,SubTotal,,Ações,EUR,NTGY,,597,,,-17981.64,-17.98164,17999.62164,0,-119.4,
+Operações,Data,Order,Ações,EUR,SGLD,"2026-11-25, 05:58:04",161,310.22,303.28,-49945.42,-49.94542,49995.36542,0,-1117.34,O;P
+Operações,SubTotal,,Ações,EUR,SGLD,,161,,,-49945.42,-49.94542,49995.36542,0,-1117.34,
+Operações,Data,Order,Ações,EUR,TTE,"2026-11-25, 05:46:48",232,77.35,77.28,-17945.2,-17.9452,17963.1452,0,-16.24,O
+Operações,SubTotal,,Ações,EUR,TTE,,232,,,-17945.2,-17.9452,17963.1452,0,-16.24,
+Operações,Data,Order,Ações,EUR,WDP,"2026-11-25, 05:50:43",902,19.39,19.31,-17489.78,-17.48978,17507.26978,0,-72.16,O
+Operações,SubTotal,,Ações,EUR,WDP,,902,,,-17489.78,-17.48978,17507.26978,0,-72.16,
+Operações,Total,,Ações,EUR,,,,,,-492415.95,-493.44203,492909.39203,0,-2291.437, 
+Operações,Data,Order,Ações,USD,BMY,"2026-11-25, 09:33:05","-19,365",62.58,61.56,1211861.7,-121.84744602,-1196272.933095,15466.919456,19752.3,C;P
+Operações,SubTotal,,Ações,USD,BMY,,-19365,,,1211861.7,-121.84744602,-1196272.933095,15466.919456,19752.3,
+Operações,Data,Order,Ações,USD,IBTS,"2026-11-25, 10:51:17",468,126.59,126.59,-59244.12,-59.24412,59303.36412,0,0,O;P
+Operações,SubTotal,,Ações,USD,IBTS,,468,,,-59244.12,-59.24412,59303.36412,0,0,
+Operações,Data,Order,Ações,USD,IDTM,"2026-11-25, 10:23:06",356,166.31,166.4,-59206.36,-59.20636,59265.56636,0,32.04,O
+Operações,SubTotal,,Ações,USD,IDTM,,356,,,-59206.36,-59.20636,59265.56636,0,32.04,
+Operações,Data,Order,Ações,USD,LQDE,"2026-11-25, 10:24:19","1,273",97.36,97.44,-123939.28,-123.93928,124063.21928,0,101.84,O;P
+Operações,SubTotal,,Ações,USD,LQDE,,1273,,,-123939.28,-123.93928,124063.21928,0,101.84,
+Operações,Data,Order,Ações,USD,NNN,"2026-11-25, 09:46:19",584,42.1,41.99,-24586.4,-2.921752,24589.321752,0,-64.24,O;P
+Operações,SubTotal,,Ações,USD,NNN,,584,,,-24586.4,-2.921752,24589.321752,0,-64.24,
+Operações,Data,Order,Ações,USD,O,"2026-11-25, 09:42:05",411,59.84270073,60.25,-24595.35,-2.056233,24597.406233,0,167.4,O;P
+Operações,SubTotal,,Ações,USD,O,,411,,,-24595.35,-2.056233,24597.406233,0,167.4,
+Operações,Data,Order,Ações,USD,SDIG,"2026-11-25, 10:46:34","1,249",99.23,99.09,-123938.27,-123.93827,124062.20827,0,-174.86,O;P
+Operações,SubTotal,,Ações,USD,SDIG,,1249,,,-123938.27,-123.93827,124062.20827,0,-174.86,
+Operações,Total,,Ações,USD,,,,,,796351.92,-493.15346102,-780391.84708,15466.919456,19814.48, 
+Operações,Total,,Ações,EUR,,,,,,725588.088388799,-449.331844474,-711046.227548471,14092.52899314,18053.7653072, 
+Juros acumulados,Header,Moeda,Nome do campo,Valor do campo
+Juros acumulados,Data,Resumo da moeda-base,Saldo inicial acumulado,0
+Juros acumulados,Data,Resumo da moeda-base,Juros acumulados,54.94
+Juros acumulados,Data,Resumo da moeda-base,Reversão acumulada,0
+Juros acumulados,Data,Resumo da moeda-base,Saldo final acumulado,54.94
+Informações sobre instrumento financeiro,Header,Categoria de ativos,Símbolo,Descrição,Conid,ID de segurança,Subjacente,Cotação da bolsa,Multiplicador,Tipo,Código
+Informações sobre instrumento financeiro,Data,Ações,AD,KONINKLIJKE AHOLD DELHAIZE N,240486295,NL0011794037,AD,AEB,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,AED,AEDIFICA,41474620,BE0003851681,AED,ENEXT.BE,1,REIT,
+Informações sobre instrumento financeiro,Data,Ações,BMY,BRISTOL-MYERS SQUIBB CO,5111,US1101221083,BMY,NYSE,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,CMCSA,COMCAST CORP-CLASS A,267748,US20030N1019,CMCSA,NASDAQ,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,CS,AXA SA,29612141,FR0000120628,CS,SBF,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,CVX,CHEVRON CORP,5684,US1667641005,CVX,NYSE,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,DG,VINCI SA,29612226,FR0000125486,DG,SBF,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,EUNH,ISHARES CORE EURO GOVT BOND,68490077,IE00B4WXJJ64,EUNH,IBIS2,1,ETF,
+Informações sobre instrumento financeiro,Data,Ações,IBTS,ISHARES USD TRSRY 1-3Y USD D,68490003,IE00B14X4S71,IBTS,EBS,1,ETF,
+Informações sobre instrumento financeiro,Data,Ações,IDTM,ISHARES USD TREASURY 7-10Y,68489992,IE00B1FZS798,IDTM,LSEETF,1,ETF,
+Informações sobre instrumento financeiro,Data,Ações,IEAC,ISHARES CORE EURO CORP BOND,60470164,IE00B3F81R35,IEAC,LSEETF,1,ETF,
+Informações sobre instrumento financeiro,Data,Ações,IEGE,ISHARES EURO GOVT 0-1YR,59262765,IE00B3FH7618,IEGE,BVME.ETF,1,ETF,
+Informações sobre instrumento financeiro,Data,Ações,LI,KLEPIERRE,1254551,FR0000121964,LI,SBF,1,REIT,
+Informações sobre instrumento financeiro,Data,Ações,LQDE,ISHARES USD CORP BOND USD D,37080143,IE0032895942,LQDE,LSEETF,1,ETF,
+Informações sobre instrumento financeiro,Data,Ações,NN,NN GROUP NV,159310339,NL0010773842,NN,AEB,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,NNN,NNN REIT INC,39042404,US6374171063,NNN,NYSE,1,REIT,
+Informações sobre instrumento financeiro,Data,Ações,NTGY,NATURGY ENERGY GROUP SA,917433,ES0116870314,NTGY,BM,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,O,REALTY INCOME CORP,10672,US7561091049,O,NYSE,1,REIT,
+Informações sobre instrumento financeiro,Data,Ações,PEP,PEPSICO INC,11017,US7134481081,PEP,NASDAQ,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,SDIG,ISHARES USD SHORT DUR USD D,136370290,IE00BCRY5Y77,SDIG,LSEETF,1,ETF,
+Informações sobre instrumento financeiro,Data,Ações,SGLD,INVESCO PHYSICAL GOLD ETC,175394979,IE00B579F325,SGLD,BVME.ETF,1,ETF,
+Informações sobre instrumento financeiro,Data,Ações,TTE,TOTALENERGIES SE,29612193,FR0000120271,TTE,SBF,1,COMMON,
+Informações sobre instrumento financeiro,Data,Ações,WDP,WAREHOUSES DE PAUW NV,396411105,BE0974349814,WDP,ENEXT.BE,1,REIT,
+Taxa de câmbio da moeda-base,Header,Moeda,Taxa
+Taxa de câmbio da moeda-base,Data,AED,0.248080
+Taxa de câmbio da moeda-base,Data,AUD,0.603920
+Taxa de câmbio da moeda-base,Data,BGN,0.547230
+Taxa de câmbio da moeda-base,Data,BHD,2.416700
+Taxa de câmbio da moeda-base,Data,BRL,0.156520
+Taxa de câmbio da moeda-base,Data,CAD,0.640950
+Taxa de câmbio da moeda-base,Data,CHF,1.096500
+Taxa de câmbio da moeda-base,Data,CNH,0.136650
+Taxa de câmbio da moeda-base,Data,CNY,0.136490
+Taxa de câmbio da moeda-base,Data,CZK,0.040952
+Taxa de câmbio da moeda-base,Data,DKK,0.133810
+Taxa de câmbio da moeda-base,Data,GBP,1.195000
+Taxa de câmbio da moeda-base,Data,HKD,0.116220
+Taxa de câmbio da moeda-base,Data,HUF,0.002689
+Taxa de câmbio da moeda-base,Data,IDR,0.000050
+Taxa de câmbio da moeda-base,Data,ILS,0.271680
+Taxa de câmbio da moeda-base,Data,INR,0.009878
+Taxa de câmbio da moeda-base,Data,JPY,0.005724
+Taxa de câmbio da moeda-base,Data,KRW,0.000678
+Taxa de câmbio da moeda-base,Data,KWD,2.948700
+Taxa de câmbio da moeda-base,Data,MXN,0.046500
+Taxa de câmbio da moeda-base,Data,MYR,0.221180
+Taxa de câmbio da moeda-base,Data,NOK,0.093002
+Taxa de câmbio da moeda-base,Data,NZD,0.499900
+Taxa de câmbio da moeda-base,Data,OMR,2.366500
+Taxa de câmbio da moeda-base,Data,PHP,0.014309
+Taxa de câmbio da moeda-base,Data,PLN,0.223690
+Taxa de câmbio da moeda-base,Data,QAR,0.249970
+Taxa de câmbio da moeda-base,Data,RON,0.187200
+Taxa de câmbio da moeda-base,Data,RUB,0.011041
+Taxa de câmbio da moeda-base,Data,RUS,0.011041
+Taxa de câmbio da moeda-base,Data,SAR,0.242870
+Taxa de câmbio da moeda-base,Data,SEK,0.089034
+Taxa de câmbio da moeda-base,Data,SGD,0.706270
+Taxa de câmbio da moeda-base,Data,THB,0.026763
+Taxa de câmbio da moeda-base,Data,TRY,0.017979
+Taxa de câmbio da moeda-base,Data,TWD,0.027463
+Taxa de câmbio da moeda-base,Data,USD,0.911140
+Taxa de câmbio da moeda-base,Data,ZAR,0.051900
+Códigos,Header,Código,Significado,Código (Cont.),Significado (Cont.)
+Códigos,Data,A,Atribuição
+Códigos,Data,ADR,Taxa de ADR acumulada
+Códigos,Data,AEx,Exercício automático para recomendação relacionada a dividendos.
+Códigos,Data,AFx,Conversão do AutoFX resultante da negociação
+Códigos,Data,Adj,Ajuste
+Códigos,Data,Al,Alocação
+Códigos,Data,Aw,Negociação externa
+Códigos,Data,B,Aquisição automática
+Códigos,Data,Bo,Tomada de empréstimo direto
+Códigos,Data,C,Negociação de fechamento
+Códigos,Data,CD,Entrega em dinheiro
+Códigos,Data,CP,Posição complexa
+Códigos,Data,Ca,Cancelada
+Códigos,Data,Co,Negociação corrigida
+Códigos,Data,Cx,Parte ou toda essa transação foi uma operação cruzada executada pela IB como agente duplo para dois clientes da IB
+Códigos,Data,DL,Dólar por lote
+Códigos,Data,DT,Negociação com desconto
+Códigos,Data,De,Operação de entrega ou conversão
+Códigos,Data,ETF,Criação/Resgate de ETF
+Códigos,Data,Ep,Resultante de uma posição vencida
+Códigos,Data,Ex,Exercício
+Códigos,Data,FP,A parte fracionária dessa negociação foi executada contra a IB ou uma coligada.
+Códigos,Data,FPA,A parte fracionária dessa negociação foi executada contra a IB ou uma coligada. A IB atuou como agente para a negociação de ações inteiras.
+Códigos,Data,G,Negociação no segmento de conta garantida
+Códigos,Data,GEA,Exercício ou atribuição decorrente da compensação de posições
+Códigos,Data,HC,Escolha da base fiscal de custo mais alto
+Códigos,Data,HFI,Investimento transferido para o fundo de hedge
+Códigos,Data,HFR,Resgate do fundo de hedge
+Códigos,Data,I,Transferência interna
+Códigos,Data,IA,A transação foi executada contra a IB ou uma coligada
+Códigos,Data,IM,Uma parte da ordem foi executada contra a IB ou uma coligada; a IB atuou como agente em uma parte.
+Códigos,Data,INV,Transferência de investimento do investidor
+Códigos,Data,IPO,Essa transação foi executada como parte de uma IPO em que a IB era membra do grupo vendedor e é classificada como uma operação principal.
+Códigos,Data,L,Ordenada pela IB (violação de margem)
+Códigos,Data,LD,Ajustado por perda não permitida da transação fictícia
+Códigos,Data,LF,Liquidação de posição fracionária pela IB
+Códigos,Data,LI,"Escolha da base fiscal de último a entrar, primeiro a sair (UEPS)"
+Códigos,Data,LT,P&L de longo prazo
+Códigos,Data,Lo,Empréstimo direto
+Códigos,Data,M,Lançamento manual pela IB
+Códigos,Data,MEx,Exercício manual para recomendação relacionada a dividendos.
+Códigos,Data,ML,Escolha da base fiscal para maximizar as perdas
+Códigos,Data,MLG,Maximizar a escolha da base tributária para ganhos de longo prazo
+Códigos,Data,MLL,Maximizar a escolha da base tributária para perdas de longo prazo
+Códigos,Data,MSG,Escolha da base tributária para maximizar o ganho de curto prazo
+Códigos,Data,MSL,Escolha da base tributária para maximizar perdas de curto prazo
+Códigos,Data,O,Negociação de abertura
+Códigos,Data,Off,"Contratos ""Sim"" e ""Não"" opostos são liquidados em conjunto por USD 1,00."
+Códigos,Data,P,Execução parcial
+Códigos,Data,PE,Investimento perpétuo
+Códigos,Data,PI,Melhoria de preço
+Códigos,Data,PTA,Alocação pós-negociação
+Códigos,Data,Po,Lançamento de juros ou dividendos acumulados
+Códigos,Data,Pr,"Parte ou toda essa transação foi executada pela Bolsa como uma operação cruzada da IB contra uma coligada da IB e, portanto, é classificada como uma operação principal e não de agência"
+Códigos,Data,R,Reinvestimento de dividendos
+Códigos,Data,RED,Resgate para o investidor
+Códigos,Data,RI,Investimento programado
+Códigos,Data,RP,"A IB atuou como agente para a parte fracionária dessa negociação, que foi executada por uma coligada à IB como principal sem riscos."
+Códigos,Data,RPA,A IB atuou como agente tanto para a parte de ações fracionárias quanto para a parte de ações inteiras dessa negociação; a parte de ações fracionárias foi executada por uma coligada à IB como outorgante sem riscos.
+Códigos,Data,Rb,Reemissão de fatura
+Códigos,Data,Re,Reversão de juros ou dividendos acumulados
+Códigos,Data,Ri,Reembolso
+Códigos,Data,S0,Contrato liquidado com valor zero.
+Códigos,Data,S1,"Contrato liquidado a USD 1,00"
+Códigos,Data,SF,A negociação está sujeita à taxa de sobretaxa da IBKR Lite se o volume de tais negociações exceder 10% do volume total mensal de negociações Lite
+Códigos,Data,SI,Esta ordem foi solicitada pela Interactive Brokers
+Códigos,Data,SL,Escolha da base tributária de lote específico
+Códigos,Data,SO,Esta ordem foi marcada como solicitada pelo seu corretor de apresentação
+Códigos,Data,SS,"O cliente designou essa negociação para liquidação abreviada e, portanto, ela está sujeita à execução a preços acima do mercado vigente"
+Códigos,Data,ST,P&L de curto prazo
+Códigos,Data,Sw,Transferência do fundo do mercado monetário
+Códigos,Data,T,Transferir
+Códigos,Data,TO,"Essa criptomoeda não é aceita na sua conta. Não é possível vendê-la na sua conta, mas é possível transferi-la a qualquer momento."
+Códigos,Data,Un,Ações não adquiridas da concessão de ações
+Códigos,Data,XCH,Transação de mercado de fundos mútuos

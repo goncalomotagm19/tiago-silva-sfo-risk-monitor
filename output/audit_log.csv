@@ -1,0 +1,2 @@
+date,timestamp_utc,mode,nav_demo_eur,nav_mandate_eur,hwm_demo_eur,drawdown_pct,headroom_red_line_pct,return_since_inception_pct,usd_to_eur,cash_eur,cash_usd,fi_pct,eq_pct,reit_pct,buf_pct,gold_pct,sat_pct,res_cash_pct,usd_fx_pct,max_issuer_pct,max_sector_pct,proj_net_mandate_eur,buf_months,overall_status,red_line_status,zero_margin_status
+2026-11-25,2026-11-26T10:58:24Z,IBKR_DAY0_RECONCILED,1011085.32,10110853.2,1011085.32,0.0,15.0,1.1085,0.91114,50081.47,22355.03,55.72,17.67,9.87,4.94,4.83,4.95,2.03,46.57,2.23,3.56,296962.86,19.98,PASS_WITH_NOTES,PASS,PASS
