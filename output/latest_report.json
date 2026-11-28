@@ -1,64 +1,64 @@
 {
-  "timestamp_utc": "2026-11-27T03:43:03Z",
-  "date": "2026-11-27",
+  "timestamp_utc": "2026-11-28T03:25:44Z",
+  "date": "2026-11-28",
   "mode": "LIVE_API_YFINANCE",
   "account_id": "DUR392190",
-  "usd_to_eur": 0.9105,
-  "eur_to_usd": 1.098298,
-  "nav_demo_eur": 1010754.61,
-  "nav_mandate_eur": 10107546.05,
-  "securities_mv_eur": 940263.94,
+  "usd_to_eur": 0.9114,
+  "eur_to_usd": 1.097213,
+  "nav_demo_eur": 1011675.48,
+  "nav_mandate_eur": 10116754.82,
+  "securities_mv_eur": 941164.7,
   "cash_eur": 50081.47,
   "cash_usd": 22355.03,
-  "cash_usd_in_eur": 20354.25,
+  "cash_usd_in_eur": 20374.37,
   "accrued_interest_eur": 54.94,
-  "total_return_since_inception_pct": 1.0755,
+  "total_return_since_inception_pct": 1.1675,
   "hwm_demo_eur": 1014406.11,
-  "drawdown_pct": -0.36,
-  "headroom_to_red_line_pct": 14.64,
+  "drawdown_pct": -0.2692,
+  "headroom_to_red_line_pct": 14.7308,
   "weights_pct": {
-    "fixed_income_total": 55.71,
+    "fixed_income_total": 55.69,
     "us_treasuries": 10.67,
     "eur_sovereigns": 4.93,
     "us_ig_corp": 22.32,
-    "eur_ig_corp": 17.78,
-    "equities": 17.67,
-    "reits": 9.87,
+    "eur_ig_corp": 17.77,
+    "equities": 17.7,
+    "reits": 9.88,
     "eur_liquidity_buffer": 4.94,
     "gold": 4.83,
-    "legacy_satellite": 4.95,
+    "legacy_satellite": 4.94,
     "residual_cash": 2.03
   },
   "fx_exposure_pct": {
-    "eur_and_gold": 53.45,
-    "usd": 46.55
+    "eur_and_gold": 53.4,
+    "usd": 46.6
   },
   "concentration": {
     "max_direct_issuer_ticker": "O",
-    "max_direct_issuer_pct": 2.23,
+    "max_direct_issuer_pct": 2.24,
     "ucits_gt5_sum_pct": 0.0,
     "max_equity_sector_name": "Consumer Staples",
     "max_equity_sector_pct": 3.56,
     "sector_weights": {
       "Consumer Staples": 3.56,
-      "Energy Integrated": 3.55,
-      "Healthcare Pharma": 1.75,
+      "Energy Integrated": 3.56,
+      "Healthcare Pharma": 1.73,
       "Infrastructure": 1.76,
       "Insurance": 3.5,
-      "Telecom / Cable": 1.79,
+      "Telecom / Cable": 1.81,
       "Utilities (Gas)": 1.77
     }
   },
   "income_and_liquidity": {
-    "proj_gross_demo_eur": 42460.11,
-    "proj_net_demo_eur": 29685.1,
-    "proj_net_mandate_eur": 296851.05,
+    "proj_gross_demo_eur": 42505.37,
+    "proj_net_demo_eur": 29717.03,
+    "proj_net_mandate_eur": 297170.33,
     "liquidity_buffer_demo_eur": 49940.86,
     "liquidity_buffer_mandate_eur": 499408.58,
     "liquidity_buffer_months": 19.98,
     "next_sweep": {
       "next_sweep_date": "2027-01-01",
-      "calendar_days_remaining": 35,
+      "calendar_days_remaining": 34,
       "business_days_remaining": 25
     }
   },
@@ -75,127 +75,127 @@
   },
   "alerts": [
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "NET_INCOME",
       "severity": "WARN",
-      "message": "Projected 12M net income (ETF proxy TER basis) €296,851 vs. €300,000 target (direct bond ladder mandate yields €303,852/yr; residual USD cash €203,543 uninvested)."
+      "message": "Projected 12M net income (ETF proxy TER basis) €297,170 vs. €300,000 target (direct bond ladder mandate yields €303,852/yr; residual USD cash €203,744 uninvested)."
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: IBTS (USD) fell back to last known price 126.5900"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: IDTM (USD) fell back to last known price 166.4000"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: EUNH (EUR) fell back to last known price 106.3350"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: SDIG (USD) fell back to last known price 99.0900"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: LQDE (USD) fell back to last known price 97.4400"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: IEAC (EUR) fell back to last known price 117.0100"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: NTGY (EUR) fell back to last known price 29.9200"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: CS (EUR) fell back to last known price 44.8800"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: NN (EUR) fell back to last known price 76.9000"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: TTE (EUR) fell back to last known price 77.2800"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: DG (EUR) fell back to last known price 112.4000"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: AD (EUR) fell back to last known price 35.7300"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: LI (EUR) fell back to last known price 37.9400"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: AED (EUR) fell back to last known price 66.7500"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: WDP (EUR) fell back to last known price 19.3100"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: IEGE (EUR) fell back to last known price 99.2860"
     },
     {
-      "timestamp_utc": "2026-11-27T03:43:03Z",
-      "date": "2026-11-27",
+      "timestamp_utc": "2026-11-28T03:25:44Z",
+      "date": "2026-11-28",
       "control": "DATA_FEED",
       "severity": "INFO",
       "message": "PRICE_STALE: SGLD (EUR) fell back to last known price 303.2800"
@@ -209,9 +209,9 @@
       "sleeve": "US Treasuries 3-7Y",
       "quantity": 468.0,
       "live_price": 126.59,
-      "mv_eur": 53941.77126,
-      "weight_pct": 5.33678214129976,
-      "unrealized_pnl_eur": -53.94177125999704,
+      "mv_eur": 53995.090968000004,
+      "weight_pct": 5.337194773012031,
+      "unrealized_pnl_eur": -53.99509096799011,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
     {
@@ -221,9 +221,9 @@
       "sleeve": "US Treasuries 3-7Y",
       "quantity": 356.0,
       "live_price": 166.4,
-      "mv_eur": 53936.5632,
-      "weight_pct": 5.336266876766364,
-      "unrealized_pnl_eur": -24.734970780002186,
+      "mv_eur": 53989.87776,
+      "weight_pct": 5.336679468639181,
+      "unrealized_pnl_eur": -24.759420504000445,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
     {
@@ -234,7 +234,7 @@
       "quantity": 469.0,
       "live_price": 106.335,
       "mv_eur": 49871.115,
-      "weight_pct": 4.93404776450247,
+      "weight_pct": 4.929556549131988,
       "unrealized_pnl_eur": -122.63881000000401,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -245,9 +245,9 @@
       "sleeve": "US IG Corporate 3-6Y",
       "quantity": 1249.0,
       "live_price": 99.09,
-      "mv_eur": 112686.584805,
-      "weight_pct": 11.148757990402425,
-      "unrealized_pnl_eur": -272.0558248349844,
+      "mv_eur": 112797.971874,
+      "weight_pct": 11.149619995066933,
+      "unrealized_pnl_eur": -272.3247432779899,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
     {
@@ -257,9 +257,9 @@
       "sleeve": "US IG Corporate 3-6Y",
       "quantity": 1273.0,
       "live_price": 97.44,
-      "mv_eur": 112939.43976,
-      "weight_pct": 11.17377444382363,
-      "unrealized_pnl_eur": -20.12139443999331,
+      "mv_eur": 113051.076768,
+      "weight_pct": 11.174638382721493,
+      "unrealized_pnl_eur": -20.141283791992464,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
     {
@@ -270,7 +270,7 @@
       "quantity": 1536.0,
       "live_price": 117.01,
       "mv_eur": 179727.36000000002,
-      "weight_pct": 17.781502956730176,
+      "weight_pct": 17.765317349455746,
       "unrealized_pnl_eur": -348.8563199999917,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -282,7 +282,7 @@
       "quantity": 597.0,
       "live_price": 29.92,
       "mv_eur": 17862.24,
-      "weight_pct": 1.7672182653427058,
+      "weight_pct": 1.76560965549231,
       "unrealized_pnl_eur": -137.3816399999996,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -294,7 +294,7 @@
       "quantity": 395.0,
       "live_price": 44.88,
       "mv_eur": 17727.600000000002,
-      "weight_pct": 1.753897524649168,
+      "weight_pct": 1.7523010399986494,
       "unrealized_pnl_eur": -254.96459999999934,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -306,7 +306,7 @@
       "quantity": 230.0,
       "live_price": 76.9,
       "mv_eur": 17687.0,
-      "weight_pct": 1.749880723756731,
+      "weight_pct": 1.7482878953979166,
       "unrealized_pnl_eur": -270.9400000000023,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -318,7 +318,7 @@
       "quantity": 232.0,
       "live_price": 77.28,
       "mv_eur": 17928.96,
-      "weight_pct": 1.773819274099931,
+      "weight_pct": 1.7722046556834643,
       "unrealized_pnl_eur": -34.18520000000353,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -330,7 +330,7 @@
       "quantity": 158.0,
       "live_price": 112.4,
       "mv_eur": 17759.2,
-      "weight_pct": 1.7570239016984532,
+      "weight_pct": 1.755424571264244,
       "unrealized_pnl_eur": -215.45669999999882,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -342,7 +342,7 @@
       "quantity": 501.0,
       "live_price": 35.73,
       "mv_eur": 17900.73,
-      "weight_pct": 1.7710263113119142,
+      "weight_pct": 1.7694142351889157,
       "unrealized_pnl_eur": -93.1258799999996,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -352,10 +352,10 @@
       "currency": "USD",
       "sleeve": "Global Defensive Equities",
       "quantity": 771.1598,
-      "live_price": 25.73,
-      "mv_eur": 18066.087875967,
-      "weight_pct": 1.7873861552467827,
-      "unrealized_pnl_eur": 143.93679814650386,
+      "live_price": 26.08,
+      "mv_eur": 18329.9378880576,
+      "weight_pct": 1.8118396863847321,
+      "unrealized_pnl_eur": 390.07133964947207,
       "price_source": "CMCSA"
     },
     {
@@ -364,10 +364,10 @@
       "currency": "USD",
       "sleeve": "Global Defensive Equities",
       "quantity": 137.7861,
-      "live_price": 143.929993,
-      "mv_eur": 18056.628467936793,
-      "weight_pct": 1.7864502794187613,
-      "unrealized_pnl_eur": 137.0878670092461,
+      "live_price": 144.600006,
+      "mv_eur": 18158.61592615351,
+      "weight_pct": 1.7949052083945278,
+      "unrealized_pnl_eur": 221.36243501087665,
       "price_source": "PEP"
     },
     {
@@ -376,10 +376,10 @@
       "currency": "USD",
       "sleeve": "Global Defensive Equities",
       "quantity": 315.0,
-      "live_price": 61.560001,
-      "mv_eur": 17655.8699868075,
-      "weight_pct": 1.7468008453140418,
-      "unrealized_pnl_eur": -61.66418611500194,
+      "live_price": 61.119999,
+      "mv_eur": 17547.001632909003,
+      "weight_pct": 1.7344496271466212,
+      "unrealized_pnl_eur": -188.04575336399648,
       "price_source": "BMY"
     },
     {
@@ -388,10 +388,10 @@
       "currency": "USD",
       "sleeve": "Global Defensive Equities",
       "quantity": 93.6251,
-      "live_price": 210.949997,
-      "mv_eur": 17982.57036063554,
-      "weight_pct": 1.7791232678054651,
-      "unrealized_pnl_eur": 63.028931321798154,
+      "live_price": 212.449997,
+      "mv_eur": 18128.34042795325,
+      "weight_pct": 1.7919125987359845,
+      "unrealized_pnl_eur": 191.08610760559168,
       "price_source": "CVX"
     },
     {
@@ -402,7 +402,7 @@
       "quantity": 525.0,
       "live_price": 37.94,
       "mv_eur": 19918.5,
-      "weight_pct": 1.9706563688668768,
+      "weight_pct": 1.9688625795490138,
       "unrealized_pnl_eur": -59.863649999999325,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -414,7 +414,7 @@
       "quantity": 263.0,
       "live_price": 66.75,
       "mv_eur": 17555.25,
-      "weight_pct": 1.7368459080528273,
+      "weight_pct": 1.7352649446307613,
       "unrealized_pnl_eur": 61.423649999997,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -426,7 +426,7 @@
       "quantity": 902.0,
       "live_price": 19.31,
       "mv_eur": 17417.62,
-      "weight_pct": 1.7232293487713979,
+      "weight_pct": 1.7216607798179826,
       "unrealized_pnl_eur": -89.64977999999974,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -436,10 +436,10 @@
       "currency": "USD",
       "sleeve": "Listed Institutional REITs",
       "quantity": 411.0,
-      "live_price": 60.25,
-      "mv_eur": 22546.483874999998,
-      "weight_pct": 2.2306585357242303,
-      "unrealized_pnl_eur": 150.54539878799915,
+      "live_price": 60.509998,
+      "mv_eur": 22666.1618048292,
+      "weight_pct": 2.240457755329535,
+      "unrealized_pnl_eur": 248.08566290760064,
       "price_source": "O"
     },
     {
@@ -448,10 +448,10 @@
       "currency": "USD",
       "sleeve": "Listed Institutional REITs",
       "quantity": 584.0,
-      "live_price": 41.990002,
-      "mv_eur": 22327.427743464,
-      "weight_pct": 2.208986002112224,
-      "unrealized_pnl_eur": -61.1497117320032,
+      "live_price": 42.040001,
+      "mv_eur": 22376.1100362576,
+      "weight_pct": 2.2117873196404703,
+      "unrealized_pnl_eur": -34.597808515201905,
       "price_source": "NNN"
     },
     {
@@ -462,7 +462,7 @@
       "quantity": 503.0,
       "live_price": 99.286,
       "mv_eur": 49940.858,
-      "weight_pct": 4.940947856735011,
+      "weight_pct": 4.936450360557823,
       "unrealized_pnl_eur": -51.95487000000139,
       "price_source": "FALLBACK_LAST_KNOWN"
     },
@@ -474,7 +474,7 @@
       "quantity": 161.0,
       "live_price": 303.28,
       "mv_eur": 48828.079999999994,
-      "weight_pct": 4.830854071920142,
+      "weight_pct": 4.826456788574721,
       "unrealized_pnl_eur": -1167.2854200000002,
       "price_source": "FALLBACK_LAST_KNOWN"
     }
